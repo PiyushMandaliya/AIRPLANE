@@ -1,0 +1,4 @@
+StartMotor:SUCCESS:Airplane Started.
+TakeOff:SUCCESS:We have take off ! Altitude increased to 1000
+IncreaseAltitude:SUCCESS:Altitude increased to 2000
+IncreaseAltitude:SUCCESS:Altitude increased to 3000
